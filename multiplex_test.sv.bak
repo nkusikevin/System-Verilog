@@ -1,0 +1,42 @@
+`timescale 1ns/1ps
+
+module EightToOneMultiplexer_tb;
+
+  reg [7:0] data_inputs;
+  reg [2:0] select;
+  wire output;
+
+  // Instantiate Multiplexer
+  EightToOneMultiplexer uut (
+    .data_inputs(data_inputs),
+    .select(select),
+    .output(output)
+  );
+
+  // Initial stimulus
+  initial begin
+    data_inputs = 8'b00000001;
+    select = 3'b000;
+
+    // Test case 1
+    #10 data_inputs = 8'b01010101;
+    #10 select = 3'b011;
+
+    // Test case 2
+    #10 data_inputs = 8'b11110000;
+    #10 select = 3'b101;
+
+    // Test case 3
+    #10 data_inputs = 8'b11001100;
+    #10 select = 3'b110;
+
+    #50 $finish;
+  end
+
+  // Display output values for verification
+  always @(posedge select) begin
+    $display("Output: %b", output);
+  end
+
+endmodule
+

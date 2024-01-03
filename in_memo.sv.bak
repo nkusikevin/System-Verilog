@@ -1,0 +1,22 @@
+
+module InstructionMemory (
+  input wire [31:0] address,
+  output reg [31:0] instruction
+);
+
+  // Define instruction memory content (example instructions)
+  reg [31:0] mem [0:255]; // 256 32-bit words
+
+  initial begin
+    // Initialize memory with example instructions
+    mem[0]  = 32'h00001000; // Example instruction 1
+    mem[1]  = 32'h00002000; // Example instruction 2
+    // Add more instructions as needed
+  end
+
+  // Read operation
+  always @(posedge address) begin
+    instruction <= mem[address];
+  end
+
+endmodule

@@ -1,0 +1,328 @@
+# Compile of alu.sv was successful.
+# Compile of alu_test.sv was successful with warnings.
+# Compile of register.sv was successful.
+# Compile of register_test.sv was successful.
+# 4 compiles, 0 failed with no errors.
+# Compile of alu.sv was successful.
+# Compile of alu_test.sv was successful with warnings.
+# Compile of register_test.sv was successful.
+# Compile of in_memo.sv was successful.
+# Compile of register.sv was successful.
+# Compile of in_memo_test.sv was successful.
+# 6 compiles, 0 failed with no errors.
+# Compile of alu.sv was successful.
+# Compile of alu_test.sv was successful with warnings.
+# Compile of register_test.sv was successful.
+# Compile of in_memo.sv was successful.
+# Compile of register.sv was successful.
+# Compile of in_memo_test.sv was successful.
+# Compile of data_memo.sv was successful.
+# Compile of data_memo_test.sv was successful.
+# 8 compiles, 0 failed with no errors.
+# Compile of alu.sv was successful.
+# Compile of alu_test.sv was successful with warnings.
+# Compile of register_test.sv was successful.
+# Compile of in_memo.sv was successful.
+# Compile of register.sv was successful.
+# Compile of in_memo_test.sv was successful.
+# Compile of data_memo.sv was successful.
+# Compile of data_memo_test.sv was successful.
+# Compile of program_counter.sv was successful.
+# Compile of program_counter_test.sv was successful.
+# 10 compiles, 0 failed with no errors.
+# Compile of alu.sv was successful.
+# Compile of alu_test.sv was successful with warnings.
+# Compile of register_test.sv was successful.
+# Compile of in_memo.sv was successful.
+# Compile of register.sv was successful.
+# Compile of in_memo_test.sv was successful.
+# Compile of data_memo.sv was successful.
+# Compile of data_memo_test.sv was successful.
+# Compile of program_counter.sv was successful.
+# Compile of program_counter_test.sv was successful.
+# Compile of multiplex.sv failed with 1 errors.
+# Compile of multiplex_test.sv failed with 3 errors.
+# Compile of adder_test.sv was successful.
+# Compile of adder .sv was successful.
+# Compile of control_unit.sv was successful.
+# Compile of control_unit_test.sv was successful.
+# Compile of shift.sv was successful.
+# Compile of shift_test.sv was successful.
+# 18 compiles, 2 failed with 4 errors.
+# Compile of alu.sv was successful.
+# Compile of alu_test.sv was successful with warnings.
+# Compile of register_test.sv was successful.
+# Compile of in_memo.sv was successful.
+# Compile of register.sv was successful.
+# Compile of in_memo_test.sv was successful.
+# Compile of data_memo.sv was successful.
+# Compile of data_memo_test.sv was successful.
+# Compile of program_counter.sv was successful.
+# Compile of program_counter_test.sv was successful.
+# Compile of multiplex.sv failed with 1 errors.
+# Compile of multiplex_test.sv failed with 3 errors.
+# Compile of adder_test.sv was successful.
+# Compile of adder .sv was successful.
+# Compile of control_unit.sv was successful.
+# Compile of control_unit_test.sv was successful.
+# Compile of shift.sv was successful.
+# Compile of shift_test.sv was successful.
+# 18 compiles, 2 failed with 4 errors.
+# Compile of alu.sv was successful.
+# Compile of alu_test.sv was successful with warnings.
+# Compile of register_test.sv was successful.
+# Compile of in_memo.sv was successful.
+# Compile of register.sv was successful.
+# Compile of in_memo_test.sv was successful.
+# Compile of data_memo.sv was successful.
+# Compile of data_memo_test.sv was successful.
+# Compile of program_counter.sv was successful.
+# Compile of program_counter_test.sv was successful.
+# Compile of multiplex.sv failed with 1 errors.
+# Compile of multiplex_test.sv failed with 3 errors.
+# Compile of adder_test.sv was successful.
+# Compile of adder .sv was successful.
+# Compile of control_unit.sv was successful.
+# Compile of control_unit_test.sv was successful.
+# Compile of shift.sv was successful.
+# Compile of shift_test.sv was successful.
+# 18 compiles, 2 failed with 4 errors.
+# Compile of alu.sv was successful.
+# Compile of alu_test.sv was successful with warnings.
+# Compile of register_test.sv was successful.
+# Compile of in_memo.sv was successful.
+# Compile of register.sv was successful.
+# Compile of in_memo_test.sv was successful.
+# Compile of data_memo.sv was successful.
+# Compile of data_memo_test.sv was successful.
+# Compile of program_counter.sv was successful.
+# Compile of program_counter_test.sv was successful.
+# Compile of multiplex.sv failed with 1 errors.
+# Compile of multiplex_test.sv failed with 3 errors.
+# Compile of adder_test.sv was successful.
+# Compile of adder .sv was successful.
+# Compile of control_unit.sv was successful.
+# Compile of control_unit_test.sv was successful.
+# Compile of shift.sv was successful.
+# Compile of shift_test.sv was successful.
+# 18 compiles, 2 failed with 4 errors.
+# Compile of alu.sv was successful.
+# Compile of alu_test.sv was successful with warnings.
+# Compile of register_test.sv was successful.
+# Compile of in_memo.sv was successful.
+# Compile of register.sv was successful.
+# Compile of in_memo_test.sv was successful.
+# Compile of data_memo.sv was successful.
+# Compile of data_memo_test.sv was successful.
+# Compile of program_counter.sv was successful.
+# Compile of program_counter_test.sv was successful.
+# Compile of multiplex.sv failed with 1 errors.
+# Compile of multiplex_test.sv failed with 3 errors.
+# Compile of adder_test.sv was successful.
+# Compile of adder .sv was successful.
+# Compile of control_unit.sv was successful.
+# Compile of control_unit_test.sv was successful.
+# Compile of shift.sv was successful.
+# Compile of shift_test.sv was successful.
+# 18 compiles, 2 failed with 4 errors.
+# Compile of alu.sv was successful.
+# Compile of alu_test.sv was successful with warnings.
+# Compile of register_test.sv was successful.
+# Compile of in_memo.sv was successful.
+# Compile of register.sv was successful.
+# Compile of in_memo_test.sv was successful.
+# Compile of data_memo.sv was successful.
+# Compile of data_memo_test.sv was successful.
+# Compile of program_counter.sv was successful.
+# Compile of program_counter_test.sv was successful.
+# Compile of multiplex.sv failed with 1 errors.
+# Compile of multiplex_test.sv failed with 3 errors.
+# Compile of adder_test.sv was successful.
+# Compile of adder .sv was successful.
+# Compile of control_unit.sv was successful.
+# Compile of control_unit_test.sv was successful.
+# Compile of shift.sv was successful.
+# Compile of shift_test.sv was successful.
+# 18 compiles, 2 failed with 4 errors.
+# Compile of alu.sv was successful.
+# Compile of alu_test.sv was successful with warnings.
+# Compile of register_test.sv was successful.
+# Compile of in_memo.sv was successful.
+# Compile of register.sv was successful.
+# Compile of in_memo_test.sv was successful.
+# Compile of data_memo.sv was successful.
+# Compile of data_memo_test.sv was successful.
+# Compile of program_counter.sv was successful.
+# Compile of program_counter_test.sv was successful.
+# Compile of multiplex.sv failed with 1 errors.
+# Compile of multiplex_test.sv failed with 3 errors.
+# Compile of adder_test.sv was successful.
+# Compile of adder .sv was successful.
+# Compile of control_unit.sv was successful.
+# Compile of control_unit_test.sv was successful.
+# Compile of shift.sv was successful.
+# Compile of shift_test.sv was successful.
+# 18 compiles, 2 failed with 4 errors.
+# Compile of alu.sv was successful.
+# Compile of alu_test.sv was successful with warnings.
+# Compile of register_test.sv was successful.
+# Compile of in_memo.sv was successful.
+# Compile of register.sv was successful.
+# Compile of in_memo_test.sv was successful.
+# Compile of data_memo.sv was successful.
+# Compile of data_memo_test.sv was successful.
+# Compile of program_counter.sv was successful.
+# Compile of program_counter_test.sv was successful.
+# Compile of multiplex.sv failed with 1 errors.
+# Compile of multiplex_test.sv failed with 3 errors.
+# Compile of adder_test.sv was successful.
+# Compile of adder .sv was successful.
+# Compile of control_unit.sv was successful.
+# Compile of control_unit_test.sv was successful.
+# Compile of shift.sv was successful.
+# Compile of shift_test.sv was successful.
+# 18 compiles, 2 failed with 4 errors.
+vsim work.InstructionMemory
+# vsim work.InstructionMemory 
+# Start time: 13:19:14 on Jan 03,2024
+# Loading sv_std.std
+# Loading work.InstructionMemory
+add wave sim:/InstructionMemory/#ALWAYS#18/*
+run
+vsim work.DFlipFlop_tb
+# End time: 13:21:12 on Jan 03,2024, Elapsed time: 0:01:58
+# Errors: 0, Warnings: 37
+# vsim work.DFlipFlop_tb 
+# Start time: 13:21:12 on Jan 03,2024
+# Loading sv_std.std
+# Loading work.DFlipFlop_tb
+# Loading work.DFlipFlop
+add wave sim:/DFlipFlop_tb/#ALWAYS#17/*
+run
+add wave sim:/DFlipFlop_tb/#INITIAL#22/*
+add wave sim:/DFlipFlop_tb/#INITIAL#22/*
+run
+vsim work.tb_alu
+# End time: 13:24:27 on Jan 03,2024, Elapsed time: 0:03:15
+# Errors: 0, Warnings: 1
+# vsim work.tb_alu 
+# Start time: 13:24:27 on Jan 03,2024
+# Loading sv_std.std
+# Loading work.tb_alu
+# Loading work.alu
+add wave sim:/tb_alu/#INITIAL#22/*
+run
+quit -sim
+# End time: 13:28:24 on Jan 03,2024, Elapsed time: 0:03:57
+# Errors: 0, Warnings: 1
+# Compile of alu.sv was successful.
+# Compile of alu_test.sv was successful.
+# Compile of register_test.sv was successful.
+# Compile of in_memo.sv was successful.
+# Compile of register.sv was successful.
+# Compile of in_memo_test.sv was successful.
+# Compile of data_memo.sv was successful.
+# Compile of data_memo_test.sv was successful.
+# Compile of program_counter.sv was successful.
+# Compile of program_counter_test.sv was successful.
+# Compile of multiplex.sv failed with 1 errors.
+# Compile of multiplex_test.sv failed with 3 errors.
+# Compile of adder_test.sv was successful.
+# Compile of adder .sv was successful.
+# Compile of control_unit.sv was successful.
+# Compile of control_unit_test.sv was successful.
+# Compile of shift.sv was successful.
+# Compile of shift_test.sv was successful.
+# 18 compiles, 2 failed with 4 errors.
+vsim work.ALU_32bit_tb
+# vsim work.ALU_32bit_tb 
+# Start time: 13:29:12 on Jan 03,2024
+# Loading sv_std.std
+# Loading work.ALU_32bit_tb
+# Loading work.ALU_32bit
+add wave sim:/ALU_32bit_tb/*
+run
+# Result: xxxxxxxx, Zero Flag: x, Overflow Flag: x, Carry Out: x
+vsim work.ControlUnit_tb
+# End time: 13:30:53 on Jan 03,2024, Elapsed time: 0:01:41
+# Errors: 0, Warnings: 2
+# vsim work.ControlUnit_tb 
+# Start time: 13:30:53 on Jan 03,2024
+# Loading sv_std.std
+# Loading work.ControlUnit_tb
+# Loading work.ControlUnit
+add wave sim:/ControlUnit_tb/*
+run
+add wave sim:/ControlUnit_tb/#ALWAYS#35/*
+vsim work.DFlipFlop_tb
+# End time: 13:32:19 on Jan 03,2024, Elapsed time: 0:01:26
+# Errors: 0, Warnings: 1
+# vsim work.DFlipFlop_tb 
+# Start time: 13:32:19 on Jan 03,2024
+# Loading sv_std.std
+# Loading work.DFlipFlop_tb
+# Loading work.DFlipFlop
+add wave sim:/DFlipFlop_tb/#INITIAL#22/*
+run
+vsim work.DataMemory_tb
+# End time: 13:33:36 on Jan 03,2024, Elapsed time: 0:01:17
+# Errors: 0, Warnings: 1
+# vsim work.DataMemory_tb 
+# Start time: 13:33:36 on Jan 03,2024
+# Loading sv_std.std
+# Loading work.DataMemory_tb
+# Loading work.DataMemory
+add wave sim:/DataMemory_tb/#ALWAYS#39/*
+run
+vsim work.FourBitAdder_tb
+# End time: 13:35:07 on Jan 03,2024, Elapsed time: 0:01:31
+# Errors: 0, Warnings: 1
+# vsim work.FourBitAdder_tb 
+# Start time: 13:35:07 on Jan 03,2024
+# Loading sv_std.std
+# Loading work.FourBitAdder_tb
+# Loading work.FourBitAdder
+add wave sim:/FourBitAdder_tb/#ALWAYS#36/*
+run
+# Sum: xxxxx
+add wave sim:/FourBitAdder_tb/#ALWAYS#36/*
+add wave sim:/FourBitAdder_tb/#INITIAL#16/*
+vsim work.ShiftRegister_4bit_tb
+# End time: 13:36:31 on Jan 03,2024, Elapsed time: 0:01:24
+# Errors: 0, Warnings: 1
+# vsim work.ShiftRegister_4bit_tb 
+# Start time: 13:36:31 on Jan 03,2024
+# Loading sv_std.std
+# Loading work.ShiftRegister_4bit_tb
+# Loading work.ShiftRegister_4bit
+# Compile of alu.sv was successful.
+# Compile of alu_test.sv was successful.
+# Compile of register_test.sv was successful.
+# Compile of in_memo.sv was successful.
+# Compile of register.sv was successful.
+# Compile of in_memo_test.sv was successful.
+# Compile of data_memo.sv was successful.
+# Compile of data_memo_test.sv was successful.
+# Compile of program_counter.sv was successful.
+# Compile of program_counter_test.sv was successful.
+# Compile of multiplex.sv failed with 1 errors.
+# Compile of multiplex_test.sv failed with 3 errors.
+# Compile of adder_test.sv was successful.
+# Compile of adder .sv was successful.
+# Compile of control_unit.sv was successful.
+# Compile of control_unit_test.sv was successful.
+# Compile of shift.sv was successful.
+# Compile of shift_test.sv was successful.
+# 18 compiles, 2 failed with 4 errors.
+vsim work.InstructionMemory_tb
+# End time: 13:38:47 on Jan 03,2024, Elapsed time: 0:02:16
+# Errors: 0, Warnings: 2
+# vsim work.InstructionMemory_tb 
+# Start time: 13:38:48 on Jan 03,2024
+# Loading sv_std.std
+# Loading work.InstructionMemory_tb
+# Loading work.InstructionMemory
+add wave sim:/InstructionMemory_tb/#ALWAYS#26/*
+run
+add wave sim:/InstructionMemory_tb/#ALWAYS#26/*
+add wave sim:/InstructionMemory_tb/#INITIAL#15/*
